@@ -11,8 +11,9 @@
 
 ### Connect with me:
 
+
+[<img align="left" alt="thiisiza | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />][instagram]
 <a href = "https://mail.google.com/mail/u/0/#inbox">ali.zarshenas.2018@gmail.com</a>
-[<img align="left" alt="thiisiza | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style ="fill: #000;" />][instagram]
 
 <br />
 
@@ -41,4 +42,10 @@
 
 </details>
 
-[instagram]: https://instagram.com/thiisiza
+
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
