@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-<a href = "https://mail.google.com/mail/u/0/#inbox">ali.zarshenas.2018@gmail.com</a><br>
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href = "https://mail.google.com/mail/u/0/#inbox">ali.zarshenas.2018@gmail.com</a>
+[<img align="left" alt="thiisiza | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style ="fill: #000;" />][instagram]
 
 <br />
 
