@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=siza36)
 
-## I'm a Student!!!
+## a Student!!!
 
 - I'm 17 Years old.
 
