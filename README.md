@@ -13,7 +13,7 @@
 
 
 [<img align="left" alt="thiisiza | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />][instagram]
-<a href = "https://mail.google.com/mail/u/0/#inbox">ali.zarshenas.2018@gmail.com</a>
+[- ali.zarshenas.2018@gmail.com][gmail]
 
 <br />
 
@@ -49,3 +49,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[gmail]: https://mail.google.com/mail/u/0/#inbox
