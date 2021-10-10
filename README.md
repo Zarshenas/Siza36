@@ -13,7 +13,7 @@
 
 
 [<img align="left" alt="thiisiza | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />][instagram]
-[- ali.zarshenas.2018@gmail.com][gmail]
+[ | ali.zarshenas.2018@gmail.com][gmail]
 
 <br />
 
@@ -36,9 +36,8 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siza36&show_icons=true&theme=radical)
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=siza36&show_icons=true&hide_border=true" />
 
 </details>
 
