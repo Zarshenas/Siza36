@@ -38,7 +38,7 @@
 
 
 
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/thiisiza/
 [webdevplaylist]: https://github.com/Siza36/Siza36/
 [jsplaylist]: https://github.com/Siza36/Siza36/
 [cssplaylist]: https://github.com/Siza36/Siza36/
