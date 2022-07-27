@@ -40,8 +40,8 @@
 
 
 [instagram]: https://www.instagram.com/thiisiza/
-[webdevplaylist]: https://github.com/Siza36/Siza36/
-[jsplaylist]: https://github.com/Siza36/Siza36/
-[cssplaylist]: https://github.com/Siza36/Siza36/
-[reactplaylist]: https://github.com/Siza36/Siza36/
+[webdevplaylist]: https://github.com/Siza36/
+[jsplaylist]: https://github.com/Siza36/
+[cssplaylist]: https://github.com/Siza36/
+[reactplaylist]: https://github.com/Siza36/
 [gmail]: mailto:ali.zarshenas.2018@gmail.com
