@@ -43,4 +43,4 @@
 [jsplaylist]: https://github.com/Siza36/Siza36/
 [cssplaylist]: https://github.com/Siza36/Siza36/
 [reactplaylist]: https://github.com/Siza36/Siza36/
-[gmail]: ali.zarshenas.2018@gmail.com
+[gmail]: mailto:ali.zarshenas.2018@gmail.com
