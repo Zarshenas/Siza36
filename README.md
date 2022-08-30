@@ -11,7 +11,8 @@
 
 
 [<img align="left" alt="thiisiza | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />][instagram]
-[ | ali.zarshenas.2018@gmail.com][gmail]
+[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/thiisiza)
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ali.zarshenas.2018@gmail.com)
 
 <br />
 
