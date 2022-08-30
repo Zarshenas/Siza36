@@ -5,7 +5,7 @@
 - I'm 17 Years old.
 
 - [<img align="left" alt="React" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist] I’m currently learning React 
-- ⚡ I'm looking to find a coding partner
+- ⚡ 
 
 ### Connect with me:
 
@@ -13,6 +13,7 @@
 [<img align="left" alt="thiisiza | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />][instagram]
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/thiisiza)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ali.zarshenas.2018@gmail.com)
+[<img align="left" alt="discord" width="30px" src="https://camo.githubusercontent.com/5b475732a4ed305b1041d81185353428fb9860f5e5a5fe3249ee547e3b5aa69b/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667"/>][discord]
 
 <br />
 
@@ -39,6 +40,7 @@
 
 
 [instagram]: https://www.instagram.com/thiisiza/
+[discord]: https://discord.com/users/siza#6397/
 [webdevplaylist]: https://github.com/Siza36/
 [jsplaylist]: https://github.com/Siza36/
 [cssplaylist]: https://github.com/Siza36/
