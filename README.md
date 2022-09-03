@@ -12,7 +12,7 @@
 
 ### 🎶 Vibing to
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=u2eo46r3d9rz88udm31v6833d&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=u2eo46r3d9rz88udm31v6833d&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=e43df0" alt="spotify now listening" width="420" /></a>
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=u2eo46r3d9rz88udm31v6833d&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=u2eo46r3d9rz88udm31v6833d&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=e43df0" alt="spotify now listening" width="350" /></a>
 </p>
 
 
