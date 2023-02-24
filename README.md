@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="thiisiza" width="40px" src="https://skillicons.dev/icons?i=instagram&theme=dark" width="32" height="32" />][instagram]
+[<img align="left" alt="thiisiza" width="40px" src="https://skillicons.dev/icons?i=instagram&theme=dark" />][instagram]
 [<img align="left" alt="Telegram" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />](https://t.me/thiisiza)
-[<img align="left" alt="gmail" width="40px" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" />](mailto:ali.zarshenas.2018@gmail.com)
+[<img align="left" alt="gmail" width="48px" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" />](mailto:ali.zarshenas.2018@gmail.com)
 [<img align="left" alt="discord" width="40px" src="https://skillicons.dev/icons?i=discord&theme=dark"/>][discord]
 
 <br>
