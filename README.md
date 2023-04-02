@@ -17,6 +17,8 @@
 [<img align="left" alt="gmail" width="48px" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" />](mailto:ali.zarshenas.2018@gmail.com)
 [<img align="left" alt="discord" width="40px" src="https://skillicons.dev/icons?i=discord&theme=dark"/>][discord]
 
+[<img align="left" alt="linkedin" width="40px" src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>][linkedin]
+
 <br>
 <br>
 
@@ -44,3 +46,4 @@
 [discord]: https://discord.com/users/siza#6397/
 [githubURL]: https://github.com/Siza36/
 [gmail]: mailto:ali.zarshenas.2018@gmail.com
+[linkedin]: https://www.linkedin.com/in/ali-zarshenas-siza/
