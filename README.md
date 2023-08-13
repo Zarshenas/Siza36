@@ -14,7 +14,6 @@
 [<img align="left" alt="React" width="40px" src="https://skillicons.dev/icons?i=react&theme=dark" />][githubURL]
 [<img align="left" alt="sass" width="40px" src="https://skillicons.dev/icons?i=sass&theme=dark" />][githubURL]
 [<img align="left" alt="Git" width="40px" src="https://skillicons.dev/icons?i=git&theme=dark" />][githubURL]
-[<img align="left" alt="GitHub" width="40px" src="https://skillicons.dev/icons?i=github&theme=dark" />][githubURL]
   
   
  [instagram]: https://www.instagram.com/thiisiza/
