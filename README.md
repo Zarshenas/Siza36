@@ -6,12 +6,10 @@
 [<img align="left" alt="CSS3" width="40px" src="https://skillicons.dev/icons?i=css&theme=dark" />][githubURL]
 [<img align="left" alt="tail wind css" width="40px" src="https://skillicons.dev/icons?i=tailwind&theme=dark" />][githubURL]
 [<img align="left" alt="styled components" width="40px" src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" />][githubURL]
-[<img align="left" alt="materialui" width="40px" src="https://skillicons.dev/icons?i=materialui&theme=dark" />][githubURL]
 [<img align="left" alt="sass" width="40px" src="https://skillicons.dev/icons?i=sass&theme=dark" />][githubURL]
 [<img align="left" alt="React" width="40px" src="https://skillicons.dev/icons?i=react&theme=dark" />][githubURL]
-[<img align="left" alt=" graphql" width="40px" src="https://skillicons.dev/icons?i=graphql&theme=dark" />][githubURL]
-[<img align="left" alt=" redux" width="40px" src="https://skillicons.dev/icons?i=redux&theme=dark" />][githubURL]
-[<img align="left" alt="Git" width="40px" src="https://skillicons.dev/icons?i=git&theme=dark" />][githubURL]
+[<img align="left" alt=" graphql" width="40px" src="https://skillicons.dev/icons?i=graphql&theme=dark" />][githubURL][githubURL]
+[<img align="" alt="Git" width="40px" src="https://skillicons.dev/icons?i=git&theme=dark" />][githubURL]
   
   
  [instagram]: https://www.instagram.com/thiisiza/
