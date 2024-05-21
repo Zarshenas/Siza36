@@ -8,7 +8,6 @@
 [<img align="left" alt="styled components" width="40px" src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" />][githubURL]
 [<img align="left" alt="sass" width="40px" src="https://skillicons.dev/icons?i=sass&theme=dark" />][githubURL]
 [<img align="left" alt="React" width="40px" src="https://skillicons.dev/icons?i=react&theme=dark" />][githubURL]
-[<img align="left" alt=" graphql" width="40px" src="https://skillicons.dev/icons?i=graphql&theme=dark" />][githubURL]
 [<img align="" alt="Git" width="40px" src="https://skillicons.dev/icons?i=git&theme=dark" />][githubURL]
   
   
